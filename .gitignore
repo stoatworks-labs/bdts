@@ -1,0 +1,6 @@
+dist/
+
+# Real BirdDog firmware pages. Kept locally so the patch tests can run against
+# the genuine markup, NEVER committed: they are BirdDog's copyrighted UI source,
+# and this repo is public. See patch_test.go.
+testdata/firmware/
