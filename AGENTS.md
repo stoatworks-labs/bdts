@@ -105,3 +105,10 @@ the outstanding work. The load-bearing unverified assumption is that the
 and not by port, so it should, but "should" is not "did". If it does not, the
 gate needs an explicit password field and the README's security argument needs
 rewriting, not patching.
+
+## Notes
+
+`docs/NOTES.md` carries this repo's working notes — current status, decisions
+already made, and the traps that have actually bitten. Read it before changing
+anything non-obvious. Cross-cutting fleet knowledge lives in
+[fleet-notes](https://github.com/stoatworks-labs/fleet-notes).
