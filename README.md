@@ -1,3 +1,9 @@
+> [!IMPORTANT]
+> **Moved to [stoatworks-labs/birddog-play-patcher/tree/main/tailscale-ui](https://github.com/stoatworks-labs/birddog-play-patcher/tree/main/tailscale-ui).**
+> bdts is now developed in the `tailscale-ui/` folder of the PLAY Patcher's repo, with its full
+> history. This repository is no longer updated — please open issues and pull requests
+> there. What follows is the README as it stood at the move (2026-10-11).
+
 # bdts — Tailscale settings in birdUI, for the BirdDog PLAY
 
 > **AI-assisted project.** This codebase was created with [Claude Code](https://claude.com/claude-code)
